@@ -1,6 +1,6 @@
 Gem::Specification.new do |s|
   s.name        = 'facetor'
-  s.version     = '0.1.0'
+  s.version     = '0.2.0'
   s.date        = '2018-01-14'
   s.summary     = "Excelsior! Let's use GitHub Actions make a self-building gem"
   s.description = "A simple hello world gem that demonstrates how you can use GitHub Actions to trigger gem releases automatically."
